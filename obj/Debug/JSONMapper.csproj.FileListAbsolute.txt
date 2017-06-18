@@ -1,5 +1,0 @@
-E:\Projects\C#\JSONMapper\JSONMapper\bin\Debug\JSONMapper.dll
-E:\Projects\C#\JSONMapper\JSONMapper\bin\Debug\JSONMapper.pdb
-E:\Projects\C#\JSONMapper\JSONMapper\obj\Debug\JSONMapper.dll
-E:\Projects\C#\JSONMapper\JSONMapper\obj\Debug\JSONMapper.pdb
-E:\Projects\C#\JSONMapper\JSONMapper\obj\Debug\JSONMapper.csprojResolveAssemblyReference.cache
